@@ -13,7 +13,7 @@
   padding: 1rem .25rem!important;
 }
 
-.SlideHeader * {
+.SlideHeader > * {
   background: white!important;
   color: "#004A98"!important;
 }
