@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+* {
+  box-shadow: none!important;
+  border-radius: 0!important;
+  font-family: "Inter" !important;
+}
+
+.SlideHeader {
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  background: transparent!important;
+  padding: 1rem .25rem!important;
+}
+
+.SlideHeader * {
+  background: transparent!important;
+}
+
+.MatchRow.MatchListTitle {
+  display:none !important;
+}
