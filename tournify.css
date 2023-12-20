@@ -13,10 +13,64 @@
   padding: 1rem .25rem!important;
 }
 
+.SlideHeader .SlideTitle {
+  background: transparent!important;
+}
+
 .SlideHeader > * {
   color: white!important;
 }
 
+.SlideHeader .TournamentName {
+  padding: 0!important;
+  background: transparent!important;
+}
+
+.SlideHeader .LiveTime {
+  background:transparent!important;
+}
+
 .MatchRow.MatchListTitle {
   display:none !important;
+}
+
+.MatchColumn {
+  border-bottom: 4px solid #0054A6!important;
+  background: white!important;
+}
+
+.MatchColumnField {
+  justify-content: flex-start!important;
+}
+
+.MatchColumnScore {
+  background: white!important;
+  color: #000!important;
+}
+
+.MatchColumnGroup {
+  justify-content: flex-end!important;
+}
+
+.GroupColumn {
+  background:white!important;
+  border-bottom: 4px solid #0054A6!important;
+}
+
+.GroupColumnPoints {
+  color: black!important;
+}
+
+.GroupHeader .GroupHeaderColumn:nth-child(3),
+.GroupColumnPoints {
+  order: 9999;
+}
+
+.SlideDurationBar {
+  background: white!important;
+  height: 4px!important;
+}
+
+.CurrentTimeContainer .material-icons {
+  padding-left: 0!important;
 }
