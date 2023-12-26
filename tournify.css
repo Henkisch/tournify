@@ -71,6 +71,12 @@
   height: 4px!important;
 }
 
+.DiaImage {
+  box-shadow: none!important;
+  border-radius: 0!important;
+}
+
+
 .DiaImage img {
   box-shadow: none!important;
   border-radius: 0!important;
