@@ -71,9 +71,10 @@
   height: 4px!important;
 }
 
-.DiaImage {
+.DiaImage img {
   box-shadow: none!important;
-  border-radius: 0!important
+  border-radius: 0!important;
+  max-height: 90vh!important;
 }
 
 div[class~="SlideElement"] {
