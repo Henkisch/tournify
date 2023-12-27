@@ -80,7 +80,7 @@
 .DiaImage img {
   box-shadow: none!important;
   border-radius: 0!important;
-  max-height: 90vh!important;
+  max-height: none!important;
 }
 
 div[class~="SlideElement"] {
