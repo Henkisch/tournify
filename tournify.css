@@ -105,6 +105,10 @@ div[class~="SlideElement"] {
   font-weight: 700!important;
 }
 
+Present-BracketLogoContainer {
+  display: none!important;
+}
+
 .Present-BracketLine, .Present-BracketLineFinished {
   background: linear-gradient(rgba(255,255,255,1),rgba(255,255,255, 1)) no-repeat 50%/3px 100% !important;
 }
