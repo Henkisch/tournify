@@ -5,19 +5,6 @@
   border-radius: 0!important;
 }
 
-.SlideShow:has(.DiaImage) .SlideHeader {
-  display: none!important;
-}
-
-.SlideShow:has(.DiaImage) .SlideElement100 {
-  padding: 0!important;
-}
-
-.SlideShow:has(.DiaImage) .SlideContentGrid {
-  margin: 0!important;
-  padding:0!important;
-}
-
 .SlideHeader {
   display:flex;
   align-items:center;
