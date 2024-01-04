@@ -92,3 +92,12 @@ div[class~="SlideElement"] {
 .CurrentTimeContainer .material-icons {
   padding-left: 0!important;
 }
+
+.Present-BracketMatchTeamName {
+  background: #0054A6 !important;
+  color: #ffffff !important;
+}
+
+.Present-BracketMatchInfo {
+  background: transparent !important;
+}
