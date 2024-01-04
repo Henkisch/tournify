@@ -95,6 +95,9 @@ div[class~="SlideElement"] {
 
 .Present-BracketMatchTeamName {
   background: #0054A6 !important;
+}
+
+.Present-BracketMatchTeamNameText {
   color: #ffffff !important;
 }
 
