@@ -87,16 +87,10 @@
 .DiaImage {
   box-shadow: none!important;
   border-radius: 0!important;
-  width: 100% !important;
-  
-}
-
-
-.DiaImage img {
-  box-shadow: none!important;
-  border-radius: 0!important;
   max-height: none!important;
   width: 100% !important;
+  height: 100vh!important;
+  object-fit: cover!important;
 }
 
 div[class~="SlideElement"] {
