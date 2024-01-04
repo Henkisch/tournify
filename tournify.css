@@ -106,5 +106,5 @@ div[class~="SlideElement"] {
 }
 
 .Present-BracketLine, .Present-BracketLineFinished {
-  background: #ffffff !important;
+  background: linear-gradient(rgba(255,255,255,1),rgba(255,255,255, 1)) no-repeat 50%/3px 100% !important;
 }
