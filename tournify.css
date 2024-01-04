@@ -104,3 +104,7 @@ div[class~="SlideElement"] {
 .Present-BracketMatchInfo {
   background: transparent !important;
 }
+
+.Present-BracketLine, .Present-BracketLineFinished {
+  background: #ffffff !important;
+}
