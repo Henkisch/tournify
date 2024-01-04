@@ -5,6 +5,10 @@
   border-radius: 0!important;
 }
 
+.SlideShow:has(.DiaImage) .SlideHeader {
+  display: none!important;
+}
+
 .SlideHeader {
   display:flex;
   align-items:center;
@@ -75,6 +79,7 @@
   box-shadow: none!important;
   border-radius: 0!important;
   width: 100% !important;
+  
 }
 
 
